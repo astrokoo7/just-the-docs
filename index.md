@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Welcome to My Just the Docs Demo
+# Welcome 
 
 This is a simple demo of the Just the Docs theme. You can customize and add your own content here.
 
